@@ -1,0 +1,200 @@
+body{
+  margin: 0;
+  font-family: helvetica;
+  padding: 0;
+  background-color: #66757F;
+}
+
+header{
+  width: 100%;
+  height: 300px;
+  background-image: url(../img/banner.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+  margin-bottom: 10px;
+  background-color: black;
+
+}
+
+header h1 a{
+  color: white;
+  text-decoration: none;
+}
+
+nav{
+  width: 100%;
+  height: 80px;
+  background-color:
+}
+
+h1{
+  margin-top: 0;
+  color: white;
+}
+
+ul{
+ list-style: none;
+}
+
+ul li{
+  margin: 15px;
+}
+
+ul li a{
+  text-decoration: none;
+  color: white;
+}
+
+ul li a:hover{
+  background-color: #798EF6;
+}
+
+.iconos-redes{
+  margin: 15px;
+  color: white;
+  float: right;
+
+}
+i{
+  margin: 5px;
+}
+
+section{
+  width: 50%;
+  background-color: white;
+  height: 500px;
+  display: inline-block;
+  margin: 10px;
+
+}
+
+.aside{
+  width: auto;
+  height: 300px;
+  background-color: white;
+  margin: 10px;
+  text-align: center;
+
+}
+
+.aside h3{
+  background-color: #d5e1df;
+}
+
+.form{
+  padding: 20px;
+
+}
+
+.aside li a{
+  color: black;
+  width: 80%;
+  text-decoration: none;
+}
+
+
+.form input{
+  margin: 10px;
+}
+.container-section{
+  width: 1024px;
+	margin: auto;
+  overflow: hidden;
+
+}
+.aside li{
+  list-style: none;
+  margin: 10px;
+}
+
+.aside li a:hover{
+  text-decoration: underline;
+}
+
+.aside-group{
+float: right;
+width: 35%;
+position: relative;
+bottom: 2100px;
+}
+
+.post{
+  margin: 20px;
+
+}
+
+figure{
+  width: 80%;
+}
+
+figure img{
+  width: 90%;
+  height: auto;
+}
+
+footer{
+  width: auto;
+  height: 90px;
+  background-color: black;
+}
+
+/* ESTILOS DE LA PAGINA DE CONTACTO */
+
+.container-contacto{
+    width: 100%;
+    max-width: 1024px;
+    margin: auto;
+
+}
+.form-contacto{
+
+}
+
+.form-contacto input{
+  margin: 20px;
+  width: 90%;
+  text-align: center;
+}
+
+.contactar{
+  width: 95%;
+  margin: auto;
+}
+
+.textarea{
+  margin-left: 20%;
+}
+
+/* ESTILOS DE PAGINA DE PORTAFOLIO*/
+.container-portafolio{
+  width: 100%;
+  max-width: 1024px;
+  margin: auto;
+
+}
+.proyecto{
+  width: 95%;
+  margin: auto;
+
+}
+
+.imgportafolio{
+  width: 50%;
+  margin: auto;
+}
+
+.imgportafolio img{
+  margin: 20px;
+}
+
+/*ESTILOS PARA EL FOOTER*/
+
+footer{
+  color: white;
+  text-align: center;
+
+}
+footer p{
+
+}
